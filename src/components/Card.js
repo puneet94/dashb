@@ -17,7 +17,7 @@ function Card({userName,followers,todayFollowers, icon, name}) {
             </p>
             <p className="card-today">
                 <img src="images/up.png"/>
-                {todayFollowers} today
+                {todayFollowers} today - check check check
             </p>
         </article>
     )
