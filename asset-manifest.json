@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-dashboard/static/css/main.e67371ea.chunk.css",
-    "main.js": "/react-dashboard/static/js/main.ac020b54.chunk.js",
-    "main.js.map": "/react-dashboard/static/js/main.ac020b54.chunk.js.map",
-    "runtime-main.js": "/react-dashboard/static/js/runtime-main.76d19e91.js",
-    "runtime-main.js.map": "/react-dashboard/static/js/runtime-main.76d19e91.js.map",
-    "static/js/2.8fa84a77.chunk.js": "/react-dashboard/static/js/2.8fa84a77.chunk.js",
-    "static/js/2.8fa84a77.chunk.js.map": "/react-dashboard/static/js/2.8fa84a77.chunk.js.map",
-    "index.html": "/react-dashboard/index.html",
-    "static/css/main.e67371ea.chunk.css.map": "/react-dashboard/static/css/main.e67371ea.chunk.css.map",
-    "static/js/2.8fa84a77.chunk.js.LICENSE.txt": "/react-dashboard/static/js/2.8fa84a77.chunk.js.LICENSE.txt"
+    "main.css": "/dashb/static/css/main.e67371ea.chunk.css",
+    "main.js": "/dashb/static/js/main.4d129c8b.chunk.js",
+    "main.js.map": "/dashb/static/js/main.4d129c8b.chunk.js.map",
+    "runtime-main.js": "/dashb/static/js/runtime-main.b5b10508.js",
+    "runtime-main.js.map": "/dashb/static/js/runtime-main.b5b10508.js.map",
+    "static/js/2.8fa84a77.chunk.js": "/dashb/static/js/2.8fa84a77.chunk.js",
+    "static/js/2.8fa84a77.chunk.js.map": "/dashb/static/js/2.8fa84a77.chunk.js.map",
+    "index.html": "/dashb/index.html",
+    "static/css/main.e67371ea.chunk.css.map": "/dashb/static/css/main.e67371ea.chunk.css.map",
+    "static/js/2.8fa84a77.chunk.js.LICENSE.txt": "/dashb/static/js/2.8fa84a77.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.76d19e91.js",
+    "static/js/runtime-main.b5b10508.js",
     "static/js/2.8fa84a77.chunk.js",
     "static/css/main.e67371ea.chunk.css",
-    "static/js/main.ac020b54.chunk.js"
+    "static/js/main.4d129c8b.chunk.js"
   ]
 }
