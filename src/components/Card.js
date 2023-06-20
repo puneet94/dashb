@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/card.css'
 
-
+//simples card
 
 function Card({userName,followers,todayFollowers, icon, name}) {
     const cardClass = `card ${name}`
